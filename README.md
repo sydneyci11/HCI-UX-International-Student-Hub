@@ -43,7 +43,7 @@ transportation, finances, and social integration
 
 ## 🤝 **Contributors**
 Team Members:
-- **Chun-I Chien** *me*
+- **Chun-I Chien** -> *me*
 - **Simran Debnath**
 - **Susetta James**
 - **Tengyu Sun**
