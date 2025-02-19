@@ -15,7 +15,8 @@ transportation, finances, and social integration
 3. Prototype a Supportive Application → Provide a centralized platform for housing, finances, mental support, and social networking.
 
 ## 📂 Repository Structure
-📂 reports/  # Research reports and documentations
+```
+📂 reports/   # Research reports and documentations
 │── Team_Globetrotters_Report.pdf  # Comprehensive research & UX design process  
 │── HCI_Individual_Coursework.docx  # Individual report reflections
 │
@@ -24,7 +25,8 @@ transportation, finances, and social integration
 │── figma_link.txt  # Contains the Figma prototype link
 │
 📄 README.md  # Project documentation
-📄 LICENSE  # Project licensing information  
+📄 LICENSE  
+```
 
 ## 🔍 Research Process
 1. **Empathize & Define**
