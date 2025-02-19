@@ -28,18 +28,18 @@ transportation, finances, and social integration
 
 ## 🔍 Research Process
 1. **Empathize & Define**
-Conducted **30+** interviews with international students.
-Created **Empathy Maps** and identified common challenges.
-Developed **Personas** representing key user groups.
-Formulated **Problem Statements** addressing financial, social, and academic difficulties.
+- Conducted **30+** interviews with international students.
+- Created **Empathy Maps** and identified common challenges.
+- Developed **Personas** representing key user groups.
+- Formulated **Problem Statements** addressing financial, social, and academic difficulties.
 
 2. **Ideation & Brainstorming**
-Used **Thinking Hats**, **How Might We (HMW) Questions**, and a **How-Now-Wow Matrix** to refine ideas.
-Created **Storyboards & Sketches** to visualize user scenarios.
+- Used **Thinking Hats**, **How Might We (HMW) Questions**, and a **How-Now-Wow Matrix** to refine ideas.
+- Created **Storyboards & Sketches** to visualize user scenarios.
 
 3. **Prototyping & Testing**
-Designed a Figma prototype of the app: [View on Figma](https://www.figma.com/design/Yqw39K1NnPebK1WENffMD5/HCI?node-id=0-1&p=f)
-Conducted usability testing and refined the prototype.
+- Designed a Figma prototype of the app: [View on Figma](https://www.figma.com/design/Yqw39K1NnPebK1WENffMD5/HCI?node-id=0-1&p=f)
+- Conducted usability testing and refined the prototype.
 
 ## 🤝 **Contributors**
 Team Members:
