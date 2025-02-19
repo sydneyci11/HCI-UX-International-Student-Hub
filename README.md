@@ -18,7 +18,7 @@ transportation, finances, and social integration
 ```
 📂 reports/   # Research reports and documentations
 │── Team_Globetrotters_Report.pdf  # Comprehensive research & UX design process  
-│── HCI_Individual_Coursework.docx  # Individual report reflections
+│── HCI_Individual_Coursework.docx  # Individual report experimental study
 │
 📂 design/  # UX/UI Design materials
 │── miro_link.txt  # Contains the Miro board link
