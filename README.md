@@ -51,11 +51,11 @@ This project was completed as part of a 10-week HCI course at King’s College L
 ## 🤝 **Contributors**
 Team Members:
 - **Chun-I Chien** -> *me*
-- **Simran Debnath**
-- **Susetta James**
-- **Tengyu Sun**
-- **Hristina-Andreea Sararu**
-- **Ruei-Ping Lin**
+- Simran Debnath
+- Susetta James
+- Tengyu Sun
+- Hristina-Andreea Sararu
+- Ruei-Ping Lin
 ### My Key Contribution
 In a team of six, I led research and ideation for the mental health module of a digital support tool for international students in London. I conducted 5 user interviews, developed empathy maps and personas, defined the problem space, and facilitated ideation using tools like thinking hats and HMW. I also designed key Figma prototype screens focused on mental health support and peer connection.
 - **Led UX Research for the mental health module:** conducted 5 in-depth interviews, synthesized findings into empathy maps and personas.
