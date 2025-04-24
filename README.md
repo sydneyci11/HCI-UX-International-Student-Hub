@@ -72,8 +72,6 @@ This study followed a between-subjects experimental design with pre- and post-su
 [**View Full Experimental Report (PDF)**](reports/HCI_Individual_Coursework.pdf)
 
 Key considerations included sampling strategy, construct validity, and ethical concerns.
-This project demonstrated my ability to integrate UX design with formal experimental evaluation, providing actionable insight into user behavior and design impact.
-
 This project demonstrates my ability to integrate UX design with experimental methods, delivering data-driven insights that inform usability and product decisions.
 
 ## 📜 License
