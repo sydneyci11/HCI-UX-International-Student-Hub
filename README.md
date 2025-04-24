@@ -69,6 +69,7 @@ This study followed a between-subjects experimental design with pre- and post-su
 1. Stress reduction and emotional well-being
 2. Social connection and cultural adaptation
 3. Engagement with different platform modules
+
 [**View Full Experimental Report (PDF)**](reports/HCI_Individual_Coursework.pdf)
 
 Key considerations included sampling strategy, construct validity, and ethical concerns.
