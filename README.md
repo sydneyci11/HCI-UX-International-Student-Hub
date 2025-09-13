@@ -20,7 +20,7 @@ This project was completed as part of a 10-week HCI course at King’s College L
 ```
 📂 reports/   # Research reports and documentations
 │── Team_Globetrotters_Report.pdf  # Comprehensive research & UX design process  
-│── HCI_Individual_Coursework.docx  # Individual report experimental study
+│── HCI_Individual_coursework.docx  # Individual report experimental study
 │
 📂 design/  # UX/UI Design materials
 │── miro_link.txt  # Contains the Miro board link
@@ -70,7 +70,7 @@ This study followed a between-subjects experimental design with pre- and post-su
 2. Social connection and cultural adaptation
 3. Engagement with different platform modules
 
-[**View Full Experimental Report (PDF)**](reports/HCI_Individual_Coursework.pdf)
+[**View Full Experimental Report (PDF)**](reports/HCI_Individual_coursework.pdf)
 
 Key considerations included sampling strategy, construct validity, and ethical concerns.
 This project demonstrates my ability to integrate UX design with experimental methods, delivering data-driven insights that inform usability and product decisions.
