@@ -40,6 +40,7 @@ This project was completed as part of a 10-week HCI course at King’s College L
 2. **Ideation & Brainstorming**
 - Used **Thinking Hats**, **How Might We (HMW) Questions**, and a **How-Now-Wow Matrix** to refine ideas.
 - Created **Storyboards & Sketches** to visualize user scenarios.
+- [Miro Board Here](https://miro.com/app/board/uXjVNec3Acw=/)
 
 3. **Prototyping & Testing**
 - Designed the Figma prototype with modular flows (accommodation, finance, mental health, social).
@@ -61,6 +62,8 @@ In a team of six, I led research and ideation for the mental health module of a 
 - **Led UX Research for the mental health module:** conducted 5 in-depth interviews, synthesized findings into empathy maps and personas.
 - **Defined Problem Scope using design thinking tools:** facilitated team workshops with Six Thinking Hats and HMW questions.
 - **UI Design Lead for Mental Health Interface:** designed and iterated Figma screens, emphasizing emotional accessibility and peer connection.
+
+[**View Full Report (PDF) Here**](reports/Team_Globetrotters_Report.pdf)
 
 ## 🧪 Experimental Evaluation (Individual UX Research)
 As an individual extension of this team project, I designed a controlled experiment to evaluate how the information hub prototype could impact international students’ adaptation and well-being.
